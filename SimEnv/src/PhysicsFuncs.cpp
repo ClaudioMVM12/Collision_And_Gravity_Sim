@@ -5,7 +5,7 @@
 #include <Screen.hpp>
 
 #define PI 3.14159265358979323846
-#define g 9.8007
+#define g 9.800665
 #define G 6.67*pow(10, -11)
 
 using namespace std;
@@ -196,6 +196,14 @@ namespace physics_func {
 
                         cin >> newcircle.vel.y;
 
+                        cout << "ax: " << endl;
+
+                        cin >> newcircle.acel.x;
+
+                        cout << "ay: " << endl;
+
+                        cin >> newcircle.acel.y;
+
                         cout << "\t\t\tPlanet has been created" << endl;
 
                         particles.push_back(circle);
@@ -382,6 +390,14 @@ namespace physics_func {
                         cout << "vy: " << endl;
 
                         cin >> newcircle.vel.y;
+
+                        cout << "ax: " << endl;
+
+                        cin >> newcircle.acel.x;
+
+                        cout << "ay: " << endl;
+
+                        cin >> newcircle.acel.y;
 
                         cout << "\t\t\tPlanet has been created" << endl;
 
