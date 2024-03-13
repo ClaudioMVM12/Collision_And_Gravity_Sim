@@ -7,7 +7,7 @@ This program use a graphical interface (using SFML) to study and simulate the ph
 In this mode, you start with a empty world wihout walls that can be fulled with particles by two forms:
 
 * Generating a Standard particle (with pre-defined parameters) using the _Right Click of the Mouse_;
-* Generating a Custom particle using pressing _C+Right Click of the Mouse_;
+* Generating a Custom particle using pressing _C+Right Click of the Mouse_.
 
 ### Particle parameters in Gravity force mode:
 
