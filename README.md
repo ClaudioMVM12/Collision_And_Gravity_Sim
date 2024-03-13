@@ -55,4 +55,4 @@ As the name sugests, here when don´t have the gravity attraction force between 
 
 ## Instalation
 
-Collision and Gravity Simulation does not come with an installer. To use the application, you can clone this repository and run the exe file in \out\build\x64-debug\.
+Collision and Gravity Simulation *only* runs in Microsoft Visual Studio, and can be downloaded directly from github option Open with Visual Studio. 
