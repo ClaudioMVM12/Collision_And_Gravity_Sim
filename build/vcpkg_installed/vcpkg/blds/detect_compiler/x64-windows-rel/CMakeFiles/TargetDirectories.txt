@@ -1,0 +1,2 @@
+C:/Users/Claudio Manuel/source/repos/Collision_And_Gravity_Sim/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/Claudio Manuel/source/repos/Collision_And_Gravity_Sim/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir
