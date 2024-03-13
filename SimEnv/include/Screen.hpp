@@ -7,13 +7,13 @@
 
 using namespace sf;
 
-extern unsigned int width = 1700;
-extern unsigned int height = 900;
+extern unsigned int width;
+extern unsigned int height;
 
-extern const float zoomAmount = 1.02f;
+extern float zoomAmount;
 
-extern RenderWindow window(VideoMode(width, height), "Simulation Environment");
+extern RenderWindow window;
 
-extern View view(Vector2f(0, 0), Vector2f(width, height));
+extern View view;
 
 // TODO: Referencie os cabeçalhos adicionais de que seu programa precisa aqui.

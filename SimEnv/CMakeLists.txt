@@ -5,9 +5,7 @@ include_directories(include)
 
 file(GLOB SOURCES "src/*.cpp")
 
-
-
-add_library(SimEnv ${SOURCES})
+add_library(SimEnv ${SOURCES}  "src/PhysicsFuncs.cpp")
 
 find_package(SFML 2.5 COMPONENTS graphics window system REQUIRED)
 
