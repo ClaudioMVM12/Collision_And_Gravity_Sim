@@ -15,7 +15,7 @@ In this mode, you start with a empty world wihout walls that can be fulled with 
 * X axis Velocity (standard value of 15);
 * Y axis Velocity (standard value of 3);
 * X axis Acceleration (standard value of 0);
-* Y axis Acceleration (standard value of 0);
+* Y axis Acceleration (standard value of 0).
 
 ### Important informations
 
@@ -40,7 +40,7 @@ In this mode, you start with a empty world with walls that can be fulled with pa
 * X axis Velocity (standard value of 0);
 * Y axis Velocity (standard value of 0);
 * X axis Acceleration (standard value of 0);
-* Y axis Acceleration (standard value of g=9.800665);
+* Y axis Acceleration (standard value of g=9.800665).
 
 As the name sugests, here when don´t have the gravity attraction force between two particles, just the acceleration of gravity force in the Y component due to Earth.
 
